@@ -1,3 +1,3 @@
 # csharp
-Some programs in C#
-Problems solved. These were proposed by Hackerrank.
+Some of my solution proposals using C#.
+These problems were proposed by Hackerrank.
